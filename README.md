@@ -5,12 +5,17 @@ Pembukaan bootcamp dan pengenalan sistem pembelajaran
 - Rules, capstone, Proporsi penilaian etc.
 - *Progress belajar 0%*
 
-23 Februari 2024
+22 Februari 2024
 --
 Materi mengenai Git dan Github
 - Kegunaan git & github
-- Mengetahui apa itu repository, commit, branch, merge, revert, reset dan istilah lainnya
+- Mengetahui apa itu repository, commit, branch, merge, revert, reset, push, pull, remote dan istilah lainnya
+- *Progress belajar 0,75%*
+
+23 Februari 2024
+--
+Lanjut materi mengenai Git dan Github
 - Membuat akun github kemudian membuat repository baru, melakukan penyimpanan/perubahan commit
 - Mempelajari mengenai README.md dan fungsi
 - Mempelajari mengenai releases file
-- *Progress belajar 2%*
+- *Progress belajar 1%*
