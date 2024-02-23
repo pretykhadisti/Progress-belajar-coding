@@ -16,3 +16,8 @@ Lanjut materi mengenai Git dan Github
 - Mempelajari mengenai README.md dan fungsi
 - Mempelajari mengenai releases file
 - ***Progress belajar 1%***
+
+## 24 Februari 2024 <br>
+Lanjut materi kelas martikulasi lain ~_~
+- Atau masih mengerjakan materi git/github, sepertinya iyaa
+- Hari ini lumayan tidak padat 
