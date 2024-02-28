@@ -21,3 +21,13 @@ Lanjut materi mengenai Git dan Github
 Lanjut materi kelas martikulasi lain ~_~
 - Atau masih mengerjakan materi git/github, sepertinya iyaa
 - Hari ini lumayan tidak padat 
+
+## 28 Februari 2024 <br>
+Lanjut materi kelas martikulasi git
+- Atau masih mengerjakan materi git/github, sepertinya iyaa
+- Sudah muncul rasa malas, memang luar biasa manusia
+- 4 hari absen
+- mencoba mencari materi serupa di platform lain, materi dicoding tidak lebih seperti buku
+- dan saya butuh penjelasan langsung dikarenakan minat baca rendah
+- tidak disarankan untuk mereka dengan gaya belajar audioteri
+  
